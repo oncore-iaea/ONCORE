@@ -1,14 +1,15 @@
 
 # Neutronics
 
-| Name    | Brief description| How to obtain the software | License |
-|-|-|-|-|-|
+| Name | Brief description | How to obtain the software | License |
+|---|---|---|---|
 | Dragon | Deterministic reactor physics platform including a lattice code, full-core flux solvers, and a full-core operation analysis tool. | Available at: https://www.polymtl.ca/merlin/version5.htm | GNU LGPL |
-| FRENDY  | Nuclear data processing. | Available at: https://rpg.jaea.go.jp/main/en/program_frendy/ | 2-clause BSD |
-| NJOY    | Nuclear data processing. | Available at: https://docs.njoy21.io/install.html | 3-clause BSD |
-| OpenMC  | Fully-featured Monte Carlo particle transport code. It is a constructive solid geometry, continuous-energy transport code that uses HDF5 format cross sections.                                                                                      | Available at: https://github.com/openmc-dev/openmc                     | MIT          |
-| OpenMOC | Method of Characteristics (MOC) neutral particle transport code for reactor physics criticality calculations. It is capable of simulating 2D assembly and full-core reactor models based on constructive solid geometry with second-order surfaces.  | Available at:  https://mit-crpg.github.io/OpenMOC/                     | MIT          |
-| Scone   | Modern Monte Carlo code based on object-oriented programming and purpose-made for easily testing methods and algorithms.                                                                                                                             | Available at:   https://bitbucket.org/Mikolaj_Adam_Kowalski/scone      |  MIT         |
+| FRENDY | Nuclear data processing. | Available at:   https://rpg.jaea.go.jp/main/en/program_frendy/ | 2-clause BSD |
+| NJOY | Nuclear data processing. | Available at: https://docs.njoy21.io/install.html  | 3-clause BSD |
+| OpenMC | Fully-featured Monte Carlo particle transport code. It is a constructive solid geometry, continuous-energy transport code that uses HDF5 format cross sections. | Available at: https://github.com/openmc-dev/openmc | MIT |
+| OpenMOC | Method of Characteristics (MOC) neutral particle transport code for reactor physics criticality calculations. It is capable of simulating 2D assembly and full-core reactor models based on constructive solid geometry with second-order surfaces.  | Available at:  https://mit-crpg.github.io/OpenMOC/ | MIT |
+| SANDY | Stochastic sampling of nuclear data  | Available at:  https://github.com/luca-fiorito-11/sandy | MIT |
+| Scone | Modern Monte Carlo code based on object-oriented programming and purpose-made for easily testing methods and algorithms. | Available at:   https://bitbucket.org/Mikolaj_Adam_Kowalski/scone      |  MIT |
 
 # Thermal-hydraulics, system analysis, containment
 
