@@ -11,7 +11,6 @@
 | SANDY | Stochastic sampling of nuclear data  | Available at:  https://github.com/luca-fiorito-11/sandy | MIT |
 | Scone | Modern Monte Carlo code based on object-oriented programming and purpose-made for easily testing methods and algorithms. | Available at:   https://bitbucket.org/Mikolaj_Adam_Kowalski/scone      |  MIT |
 
-
 # Thermal-hydraulics, system analysis, containment
 
 | Name                          | Brief description                                                                                                                                                                                                                                                                                                                                                                                                             | How to obtain the software                                        | License                                                   |
